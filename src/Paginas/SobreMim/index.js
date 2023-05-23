@@ -1,7 +1,5 @@
-import React from 'react'
-
 export default function SobreMim() {
-  return (
-    <div>SobreMim</div>
-  )
+    return (
+        <h1>Sobre mim...</h1>
+    )
 }
