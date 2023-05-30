@@ -11,7 +11,7 @@ export default function Banner() {
                 </h1>
 
                 <p className={styles.paragrafo}>
-                    Boas vindas ao meu espaço pessoal! Eu sou Antônio Evaldo, instrutor de Front-end da Alura. Aqui compartilho vários conhecimentos, espero que aprenda algo novo :)
+                    Boas vindas ao meu espaço pessoal! Eu sou Wellington Gabriel, aluno de Front-end da Alura. :)
                 </p>
             </div>
 
@@ -19,8 +19,8 @@ export default function Banner() {
                 <img
                     className={styles.circuloColorido}
                     src={circuloColorido}
-                    alt='Circulo Colorido'
                     aria-hidden={true}
+                    alt=""
                 />
 
                 <img
